@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyusha-01
 - 👀 I’m interested in MACHINE LEARNING, WEB DEVELOPMENT, CODING in PYTHON.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning NLP.
 - 📫 Reach me by E-mail: varshneypiyusha111@gmail.com
 - 👀 looking for a job in Python Development.
 - 🌐 working as Python Developer at Infotrixs.
