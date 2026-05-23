@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
 [![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
 [![Oracle GenAI](https://img.shields.io/badge/Oracle-Certified_Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=22BA92CFE83AB0A174A311C1997B1A2E6332C3A190AE7A36322FA80FA5619DC6)
-[![Patent](https://img.shields.io/badge/Patent-Issued-202511003590-7C3AED?style=for-the-badge)](https://github.com/Piyusha-01)
+[![Patent Issued](https://img.shields.io/badge/Patent-Issued_202511003590-7C3AED?style=for-the-badge)](https://github.com/Piyusha-01/Piyusha-01#-patent)
 
 <img src="https://komarev.com/ghpvc/?username=Piyusha-01&label=Profile%20views&color=6366f1&style=flat" alt="Profile views"/>
 
@@ -30,7 +30,8 @@ I design and ship systems across **RAG**, **vector search**, **LLM guardrails**,
 | **Focus** | Generative AI · NLP · ML · Cloud (AWS) · Full-stack |
 | **Currently** | Production GenAI, semantic search, guardrails, cost visibility |
 | **Open to** | Software / ML / AI / Cloud engineering roles |
-| **Location** | India · open to remote & hybrid |
+| **LinkedIn** | [linkedin.com/in/piyusha-varshney](https://www.linkedin.com/in/piyusha-varshney/) |
+| **Location** | Anywhere |
 
 ---
 
@@ -119,20 +120,26 @@ I design and ship systems across **RAG**, **vector search**, **LLM guardrails**,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyusha-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyusha-01&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyusha-01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyusha-01&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyusha-01&theme=discord&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub trophies"/>
+![](https://streak-stats.demolab.com/?user=Piyusha-01&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyusha-01&theme=react-dark&hide_border=true&area=true)](https://github.com/Piyusha-01)
+![](https://github-profile-trophy.vercel.app/?username=Piyusha-01&theme=discord&column=4&margin-w=8&margin-h=8&no-bg=true)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Piyusha-01&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -150,8 +157,6 @@ I design and ship systems across **RAG**, **vector search**, **LLM guardrails**,
 | [potato-disease-Classification](https://github.com/Piyusha-01/potato-disease-Classification) | Crop disease image classification |
 | [DSA-Sheet-using-Python-](https://github.com/Piyusha-01/DSA-Sheet-using-Python-) | GfG DSA solutions in Python |
 | [Employee_Management_Payroll_System](https://github.com/Piyusha-01/Employee_Management_Payroll_System) | Payroll management system |
-
-**Pin your best 6 repos** on GitHub → Profile → Customize pins (start with **Automate-Chat**).
 
 ---
 
