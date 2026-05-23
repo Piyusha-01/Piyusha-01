@@ -1,177 +1,211 @@
-Hi, I'm Piyusha Varshney 👋  
-Software Engineer · ML · NLP · Generative AI · FinOps-aware cloud engineering
+<!-- Profile README for https://github.com/Piyusha-01/Piyusha-01 — paste as README.md -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyusha%20Varshney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
-[![Email](https://img.shields.io/badge/Email-varshneypiyusha111@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Piyusha--01-181717?style=flat&logo=github)](https://github.com/Piyusha-01)
+<div align="center">
 
-> 📜 **Patent Issued:** CO–PO Mapper for educational program evaluation — `202511003590`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=140&section=header&text=Piyusha%20Varshney&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
 
----
+[![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&duration=3800&pause=900&color=6366F1&center=true&vCenter=true&width=920&lines=Software+Engineer+%7C+GenAI+%26+NLP;Production+AI+on+AWS+%7C+RAG+%26+Guardrails;ML+%C2%B7+Cloud+%C2%B7+Full-Stack+Engineering)](https://git.io/typing-svg)
 
-## 👩‍💻 About Me
+<br/>
 
-- 🔭 **Software Engineer** at [**Relevance Lab**](https://www.linkedin.com/company/relevance-lab) — building AI-powered platforms on AWS
-- 🧠 **Interests:** Machine Learning, NLP, Generative AI, Web Development, **Python**
-- 🌱 **Learning:** Advanced NLP, guardrails, semantic search, and production-grade AI systems
-- 🏅 **Oracle Certified** Generative AI Professional · CDAC Big Data · AI+ML (IITK Prutor)
-- 📫 **Email:** [varshneypiyusha111@gmail.com](mailto:varshneypiyusha111@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/piyusha-varshney](https://www.linkedin.com/in/piyusha-varshney)
-- 💼 **Open to** IT / Software Engineering roles in ML, AI, cloud, and full-stack development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
+[![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
+[![Oracle GenAI](https://img.shields.io/badge/Oracle-Certified_Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=22BA92CFE83AB0A174A311C1997B1A2E6332C3A190AE7A36322FA80FA5619DC6)
+[![Patent](https://img.shields.io/badge/Patent-Issued-202511003590-7C3AED?style=for-the-badge)](https://github.com/Piyusha-01)
+
+<img src="https://komarev.com/ghpvc/?username=Piyusha-01&label=Profile%20views&color=6366f1&style=flat" alt="Profile views"/>
+
+</div>
 
 ---
 
-## ⭐ Featured Project
+## About
 
-### [Automate-Chat](https://github.com/Piyusha-01/Automate-Chat) — Local WhatsApp AI auto-reply
+**Software Engineer** at [**Relevance Lab**](https://www.linkedin.com/company/relevance-lab) building **AI-powered platforms on AWS** — from enterprise research portals to multilingual GenAI assistants.
 
-Local-first WhatsApp assistant: **Baileys (Node)** + **FastAPI + Ollama (Python)** + **MongoDB**. No paid APIs, no VPS.
-
-| Capability | Details |
-|------------|---------|
-| **Understanding** | Intent detection, emotion (keyword + LLM), topic-aware context curation |
-| **Replies** | Hinglish-style generation, relationship-aware prompts (e.g. parent/child), message batching |
-| **Ops** | Docker on WSL2, Windows Ollama, allowlist-only contacts, control UI + emergency stop |
-
-**Stack:** Node.js · Python · FastAPI · MongoDB · Ollama · Docker · Baileys
-
----
-
-## 💼 Professional Work *(public / high-level only)*
-
-> Summaries reflect publicly shareable scope. No proprietary configs, credentials, or customer-specific details.
-
-### 🤖 AI-Compass — Generative AI & multilingual bots
-
-| Focus | What I work on |
-|-------|----------------|
-| **RAG & search** | Custom embedding pipelines, FAISS vector stores, semantic retrieval |
-| **Safety** | NVIDIA NeMo Guardrails for safer, policy-aligned chatbot responses |
-| **Deployment** | Flask services on **AWS EC2**, scalable multilingual bots (e.g. Arabic & English) |
-| **Stack** | Python, Node.js, AWS, Docker, streaming chat APIs |
-
----
-
-### 🔬 Research Gateway (RG) — Enterprise cloud research platform
-
-| Focus | What I work on |
-|-------|----------------|
-| **AI assistant** | Contextual chatbot with **OpenAI GPT** + vector search for research workflows |
-| **Backend** | Node.js microservices, **MongoDB** query optimization, API reliability |
-| **Platform** | License validation, API throttling, EBS volume integrations |
-| **Related repos** | [rgdeploy](https://github.com/Piyusha-01/rgdeploy) · [res](https://github.com/Piyusha-01/res) *(forks / ecosystem)* |
-
----
-
-### 💰 FinOps & cloud cost visibility
-
-| Focus | What I work on |
-|-------|----------------|
-| **Cost insights** | **AWS Cost Explorer** integration for team-level spend visibility |
-| **Governance** | Helping research teams track and manage cloud usage responsibly |
-| **Reliability** | Performance tuning and production issue resolution on RG services |
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
----
-
-## 📌 Personal Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Automate-Chat**](https://github.com/Piyusha-01/Automate-Chat) | Local WhatsApp AI auto-reply with intent, emotion, RAG, and Docker | Node.js · Python · FastAPI · MongoDB · Ollama |
-| [Heart-disease-classification](https://github.com/Piyusha-01/Heart-disease-classification) | Heart disease risk prediction with ML | Python |
-| [Breast-cancer-detection](https://github.com/Piyusha-01/Breast-cancer-detection) | Breast cancer detection model | Python |
-| [Diabetes_prediction_FNN](https://github.com/Piyusha-01/Diabetes_prediction_FNN) | Diabetes prediction using feedforward neural networks | Jupyter Notebook |
-| [Digit_CNN](https://github.com/Piyusha-01/Digit_CNN) | Handwritten digit recognition with CNN | Jupyter Notebook |
-| [potato-disease-Classification](https://github.com/Piyusha-01/potato-disease-Classification) | Image-based crop disease classification | Jupyter Notebook |
-| [DSA-Sheet-using-Python-](https://github.com/Piyusha-01/DSA-Sheet-using-Python-) | GeeksforGeeks DSA sheet solutions in Python | Python |
-| [Lane-to-DSA-150](https://github.com/Piyusha-01/Lane-to-DSA-150) | DSA practice & problem solving | — |
-| [Employee_Management_Payroll_System](https://github.com/Piyusha-01/Employee_Management_Payroll_System) | Employee & payroll management system | Python |
-| [Contact_mng_system](https://github.com/Piyusha-01/Contact_mng_system) | Contact management application | Python |
-| [Uttar_pradesh_website](https://github.com/Piyusha-01/Uttar_pradesh_website) | Web project — Uttar Pradesh themed site | HTML |
-
----
-
-## 🔗 RG & platform-related repositories
-
-| Repo | Role |
-|------|------|
-| [rgdeploy](https://github.com/Piyusha-01/rgdeploy) | Deployment scripts & artefacts for **Research Gateway** |
-| [res](https://github.com/Piyusha-01/res) | [**AWS Research and Engineering Studio (RES)**](https://github.com/aws-solutions-library-samples/aws-research-and-engineering-studio) — open-source research portal on AWS *(fork)* |
-
----
-
-## 🏅 Certifications
-
-- **Oracle Cloud Infrastructure 2025 Generative AI Professional** — [View badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=22BA92CFE83AB0A174A311C1997B1A2E6332C3A190AE7A36322FA80FA5619DC6)
-- **CDAC — Big Data Technologies** (NASSCOM)
-- **AI + ML** — Prutor @ IIT Kanpur
-
----
-
-## 📜 Patent
-
-### CO-PO Mapper for Accurate Educational Program Evaluation
+I design and ship systems across **RAG**, **vector search**, **LLM guardrails**, **Node.js microservices**, and **FinOps-aware cloud operations**. I also build **local-first AI** side projects with open models (Ollama) and real-world automation.
 
 | | |
 |---|---|
-| **Patent No.** | `202511003590` |
-| **Status** | Issued |
-| **Domain** | NLP · Transformers · Education Technology |
-
-**Summary:** Transformer-based AI framework that maps **Course Outcomes (CO)** to **Program Outcomes (PO)** for curriculum evaluation and accreditation alignment.
-
-**Highlights:**
-- Semantic NLP / transformer models for academic terminology across disciplines
-- Automated correlation between course content and institutional learning standards
-- Scalable document-processing pipeline for large course catalogs
-- Multilingual support for broader education use cases
-- Designed for integration with **Learning Management Systems (LMS)**
-- Applications: accreditation, quality assurance, and curriculum optimization
-
-*Inventor: Piyusha Varshney · Views expressed here are my own.*
+| **Focus** | Generative AI · NLP · ML · Cloud (AWS) · Full-stack |
+| **Currently** | Production GenAI, semantic search, guardrails, cost visibility |
+| **Open to** | Software / ML / AI / Cloud engineering roles |
+| **Location** | India · open to remote & hybrid |
 
 ---
 
-## 📊 GitHub Stats
+## Featured work
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyusha-01&show_icons=true&theme=default)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyusha-01&layout=compact)
+### [Automate-Chat](https://github.com/Piyusha-01/Automate-Chat)
+
+**Local WhatsApp AI auto-reply** — no paid APIs, no VPS.
+
+- Intent + emotion understanding (rules + LLM)
+- Topic-aware context curation & relationship-aware replies
+- **Baileys** · **FastAPI** · **MongoDB** · **Ollama** · **Docker**
+
+[![Repo](https://img.shields.io/badge/View_Repository-Automate--Chat-4F46E5?style=for-the-badge)](https://github.com/Piyusha-01/Automate-Chat)
+
+</td>
+<td width="50%" valign="top">
+
+### Enterprise & research platforms *(public summary)*
+
+**AI-Compass** — RAG, FAISS, NeMo Guardrails, multilingual bots on EC2  
+
+**Research Gateway** — GPT assistants, MongoDB services, license & API governance  
+
+**FinOps** — AWS Cost Explorer insights for team-level spend visibility  
+
+*No proprietary configs or customer data shared here.*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+## Professional highlights
 
-- NLP pipelines, transformers, and semantic search at scale
-- Production GenAI: guardrails, RAG, observability, and safe deployments
-- Local LLM stacks (Ollama) and agent-style automation on personal projects
-- FinOps patterns: cost allocation, visibility, and cloud efficiency
+<details open>
+<summary><b>AI-Compass — Generative AI & multilingual bots</b></summary>
+
+| Area | Contribution |
+|------|----------------|
+| **Retrieval** | Embedding pipelines, FAISS vector stores, semantic search |
+| **Safety** | NVIDIA NeMo Guardrails for policy-aligned responses |
+| **Delivery** | Flask on AWS EC2, Docker, streaming chat APIs (AR / EN) |
+
+</details>
+
+<details>
+<summary><b>Research Gateway (RG) — Cloud research platform</b></summary>
+
+| Area | Contribution |
+|------|----------------|
+| **AI assistant** | GPT + vector search for research workflows |
+| **Backend** | Node.js microservices, MongoDB optimization, API reliability |
+| **Platform** | Licensing, throttling, EBS integrations |
+| **Repos** | [rgdeploy](https://github.com/Piyusha-01/rgdeploy) · [res](https://github.com/Piyusha-01/res) |
+
+</details>
+
+<details>
+<summary><b>FinOps & reliability</b></summary>
+
+| Area | Contribution |
+|------|----------------|
+| **Visibility** | AWS Cost Explorer for team spend tracking |
+| **Governance** | Responsible cloud usage for research teams |
+| **Ops** | Performance tuning & production issue resolution |
+
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyusha-01)
+<div align="center">
 
-*Views expressed here are my own; professional work descriptions are limited to publicly shareable information.*
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,react,fastapi,flask,mongodb,postgres,docker,aws,linux,git,githubactions,pytorch,tensorflow,opencv,npm,bash&perline=9)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piyusha-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyusha-01&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Piyusha-01&theme=discord&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub trophies"/>
+
+</div>
+
+<div align="center">
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyusha-01&theme=react-dark&hide_border=true&area=true)](https://github.com/Piyusha-01)
+
+</div>
 
 ---
 
-Thanks for visiting — let's build something useful together 🚀
+## Open-source & ML projects
+
+| Project | What it does |
+|---------|----------------|
+| [**Automate-Chat**](https://github.com/Piyusha-01/Automate-Chat) | WhatsApp AI agent — intent, emotion, RAG, Docker |
+| [Heart-disease-classification](https://github.com/Piyusha-01/Heart-disease-classification) | Heart disease risk prediction |
+| [Breast-cancer-detection](https://github.com/Piyusha-01/Breast-cancer-detection) | Breast cancer detection model |
+| [Diabetes_prediction_FNN](https://github.com/Piyusha-01/Diabetes_prediction_FNN) | Diabetes prediction (FNN) |
+| [Digit_CNN](https://github.com/Piyusha-01/Digit_CNN) | MNIST digit recognition (CNN) |
+| [potato-disease-Classification](https://github.com/Piyusha-01/potato-disease-Classification) | Crop disease image classification |
+| [DSA-Sheet-using-Python-](https://github.com/Piyusha-01/DSA-Sheet-using-Python-) | GfG DSA solutions in Python |
+| [Employee_Management_Payroll_System](https://github.com/Piyusha-01/Employee_Management_Payroll_System) | Payroll management system |
+
+**Pin your best 6 repos** on GitHub → Profile → Customize pins (start with **Automate-Chat**).
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| **Generative AI Professional** | [Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=22BA92CFE83AB0A174A311C1997B1A2E6332C3A190AE7A36322FA80FA5619DC6) |
+| **Big Data Technologies** | CDAC (NASSCOM) |
+| **AI + Machine Learning** | Prutor @ IIT Kanpur |
+
+---
+
+## Patent
+
+**CO–PO Mapper for Accurate Educational Program Evaluation** · `202511003590` · **Issued**
+
+Transformer-based framework mapping **Course Outcomes (CO)** → **Program Outcomes (PO)** for accreditation, LMS integration, and curriculum optimization across disciplines.
+
+*Inventor: Piyusha Varshney*
+
+---
+
+## Currently learning
+
+```text
+▸ Production RAG & semantic search at scale
+▸ GenAI guardrails, observability & safe deployments
+▸ Local LLM stacks (Ollama) & agent-style automation
+▸ FinOps: allocation, visibility & cloud efficiency
+```
+
+---
+
+## Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyusha--varshney-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyusha-varshney)
+[![Email](https://img.shields.io/badge/Email-varshneypiyusha111@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:varshneypiyusha111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Piyusha--01-181717?style=for-the-badge&logo=github)](https://github.com/Piyusha-01)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Professional summaries here are high-level and publicly shareable only. Views are my own.</sub>
+
+**Thanks for visiting — happy to collaborate on meaningful AI & platform work.**
+
+</div>
+
+<!-- Optional: add snake.yml workflow (see docs/github-profile-snake.yml) then uncomment:
+![Snake](https://raw.githubusercontent.com/Piyusha-01/Piyusha-01/output/github-contribution-grid-snake.svg)
+-->
