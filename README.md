@@ -1,26 +1,11 @@
-<h1 align="center">Hi, I'm Piyusha Varshney 👋</h1>
-<h3 align="center">Software Engineer · ML · NLP · Generative AI · FinOps-aware cloud engineering</h3>
+Hi, I'm Piyusha Varshney 👋  
+Software Engineer · ML · NLP · Generative AI · FinOps-aware cloud engineering
 
-<p align="center">
-  <a href="mailto:varshneypiyusha111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-varshneypiyusha111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/piyusha-varshney" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Piyusha%20Varshney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Piyusha-01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Piyusha--01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyusha%20Varshney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
+[![Email](https://img.shields.io/badge/Email-varshneypiyusha111@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Piyusha--01-181717?style=flat&logo=github)](https://github.com/Piyusha-01)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Generative+AI+%26+RAG;Research+Gateway+%28RG%29;FinOps+%26+AWS+Cost+Visibility;Python+%7C+Node.js+%7C+AWS;NLP+%26+Machine+Learning" alt="Typing animation"/>
-</p>
-
-<p align="center">
-  📜 <b>Patent Issued:</b> CO–PO Mapper for educational program evaluation
-  <code>202511003590</code>
-</p>
+> 📜 **Patent Issued:** CO–PO Mapper for educational program evaluation — `202511003590`
 
 ---
 
@@ -33,6 +18,22 @@
 - 📫 **Email:** [varshneypiyusha111@gmail.com](mailto:varshneypiyusha111@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/piyusha-varshney](https://www.linkedin.com/in/piyusha-varshney)
 - 💼 **Open to** IT / Software Engineering roles in ML, AI, cloud, and full-stack development
+
+---
+
+## ⭐ Featured Project
+
+### [Automate-Chat](https://github.com/Piyusha-01/Automate-Chat) — Local WhatsApp AI auto-reply
+
+Local-first WhatsApp assistant: **Baileys (Node)** + **FastAPI + Ollama (Python)** + **MongoDB**. No paid APIs, no VPS.
+
+| Capability | Details |
+|------------|---------|
+| **Understanding** | Intent detection, emotion (keyword + LLM), topic-aware context curation |
+| **Replies** | Hinglish-style generation, relationship-aware prompts (e.g. parent/child), message batching |
+| **Ops** | Docker on WSL2, Windows Ollama, allowlist-only contacts, control UI + emergency stop |
+
+**Stack:** Node.js · Python · FastAPI · MongoDB · Ollama · Docker · Baileys
 
 ---
 
@@ -74,25 +75,16 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 
@@ -100,6 +92,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Automate-Chat**](https://github.com/Piyusha-01/Automate-Chat) | Local WhatsApp AI auto-reply with intent, emotion, RAG, and Docker | Node.js · Python · FastAPI · MongoDB · Ollama |
 | [Heart-disease-classification](https://github.com/Piyusha-01/Heart-disease-classification) | Heart disease risk prediction with ML | Python |
 | [Breast-cancer-detection](https://github.com/Piyusha-01/Breast-cancer-detection) | Breast cancer detection model | Python |
 | [Diabetes_prediction_FNN](https://github.com/Piyusha-01/Diabetes_prediction_FNN) | Diabetes prediction using feedforward neural networks | Jupyter Notebook |
@@ -150,22 +143,15 @@
 - Designed for integration with **Learning Management Systems (LMS)**
 - Applications: accreditation, quality assurance, and curriculum optimization
 
-<p align="center">
-  <i>Inventor: Piyusha Varshney · Views expressed here are my own.</i>
-</p>
+*Inventor: Piyusha Varshney · Views expressed here are my own.*
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-alpha.vercel.app/api?username=Piyusha-01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyusha-01&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyusha-01&show_icons=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Piyusha-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyusha-01&layout=compact)
 
 ---
 
@@ -173,29 +159,19 @@
 
 - NLP pipelines, transformers, and semantic search at scale
 - Production GenAI: guardrails, RAG, observability, and safe deployments
+- Local LLM stacks (Ollama) and agent-style automation on personal projects
 - FinOps patterns: cost allocation, visibility, and cloud efficiency
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyusha-varshney" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:varshneypiyusha111@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-varshney)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshneypiyusha111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyusha-01)
 
-<p align="center">
-  <i>Views expressed here are my own; professional work descriptions are limited to publicly shareable information.</i>
-</p>
+*Views expressed here are my own; professional work descriptions are limited to publicly shareable information.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyusha-01&label=Profile%20views&color=6366F1&style=flat" alt="Profile views"/>
-</p>
+---
 
-<p align="center">
-  Thanks for visiting — let's build something useful together 🚀
-</p>
+Thanks for visiting — let's build something useful together 🚀
