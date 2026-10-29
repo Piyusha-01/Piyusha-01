@@ -21,7 +21,7 @@
 
 ## About
 
-**Software Engineer** at [**Relevance Lab**](https://www.linkedin.com/company/relevance-lab) building **AI-powered platforms on AWS** — from enterprise research portals to multilingual GenAI assistants.
+**Senior Software Engineer** at [**Relevance Lab**](https://www.linkedin.com/company/relevance-lab) building **AI-powered platforms on AWS** — from enterprise research portals to multilingual GenAI assistants.
 
 I design and ship systems across **RAG**, **vector search**, **LLM guardrails**, **Node.js microservices**, and **FinOps-aware cloud operations**. I also build **local-first AI** side projects with open models (Ollama) and real-world automation.
 
